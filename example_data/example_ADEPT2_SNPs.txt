@@ -1,0 +1,16 @@
+SNP_ID	p-value	trait
+C30560578_374_T/G	0.000001	resin_canal_number
+C30560578_401_A/G	0.05	oleoresin_flow
+C30560578_425_C/T	0.65	oleoresin_flow
+C30560578_429_G/A	0.000001	oleoresin_flow
+C30560578_438_C/T	0.000001	oleoresin_flow
+C30560578_439_G/A	0.000001	oleoresin_flow
+C30560578_440_A/G	0.000001	oleoresin_flow
+C30560578_450_G/T	0.000001	resin_canal_number
+C30560578_474_C/G	0.000001	resin_canal_number
+C30560578_521_T/C	0.000001	resin_canal_number
+C30560578_526_T/A	0.000001	resin_canal_number
+C30560578_528_A/G	0.000001	resin_canal_number
+C30560578_532_G/A	0.000001	resin_canal_number
+C30560578_546_C/A	0.000001	resin_canal_number
+
